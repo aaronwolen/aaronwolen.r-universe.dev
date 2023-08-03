@@ -1,0 +1,10 @@
+[
+    {
+      "package": "tiledbsoma",
+      "maintainer": "Aaron Wolen <aaron@tiledb.com>",
+      "url": "https://github.com/single-cell-data/TileDB-SOMA",
+      "available": true,
+      "branch": "aaronwolen/use-remotes-for-tiledb-0.20.2",
+      "subdir": "apis/r"
+    }
+  ]
